@@ -1,0 +1,83 @@
+.overlay{
+	background:rgba(0,0,0,.5);
+}
+.home,.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-brand,.line-button,
+.line-button:hover,.button-watch li a,.button,
+.button:hover,.style3 .top h4,.color-layer h2,
+.color-layer p,.color-layer a,.input-group-addon,
+.footer_part,.social-icon li a:hover,.pause-video {
+	color:#fff;
+}
+.social-icon li a {
+	color:#e1e1e1;
+}
+.footer-sap li {
+	color:#becccc;
+}
+.footer-sap:before,.footer-sap:after {
+	background:#becccc;
+}
+
+.section-top h2,.area-watch h2 span,.single-service .fa,
+.style3 .top h1,.social_icon li a,.subscribe_now h2{
+	color:#249292;
+}
+.single-service h4,.single-portfolio h4,
+.first-testimonial h5,.first-feature h4,
+.contact-form input[type="submit"]{
+	color:#353b49;
+}
+.single-service p{
+	color:#6e6e6e;
+}
+.single-portfolio p,
+.first-testimonial blockquote,.first-testimonial h6,
+.first-feature p,.subscribe_now p{
+	color:#807e7e;
+}
+.style3:hover .top h1,.social_icon li a:hover{
+	color:#ef553b;
+}
+.style3 .top h1 small{
+	color:#686767;
+}
+
+.first-testimonial blockquote,.style3in,
+.contact-form input[type="submit"],.navbar-default .navbar-nav > li > a:after,
+.navbar-default .navbar-toggle .icon-bar,
+.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus{
+	background:#fff;
+}
+
+.affix,.button-watch li a,.button,
+.style3 .top h4,.input-group-addon,
+.footer_part,.navbar-default .navbar-toggle:hover .icon-bar,
+.navbar-default .navbar-toggle:focus .icon-bar, .button_play button{
+	background:#249292;
+}
+.button-watch li a:hover,.button:hover,
+.single-pricing:hover .top h4,.single-pricing:hover .button{
+	background:#ef553b;
+}
+.area-watch,.area-testimonial,.area-clients,
+.style3 .top h1,.first-team,.subscribe_now{
+	background:#f4f4f4;
+}
+.color-layer,.area-video a{
+	background:rgba(36,146,146,.6);
+}
+.form-control::-moz-placeholder{
+	color: #ccc;
+}
+.form-control:-webkit-placeholder{
+	color: #ccc;
+}
+.form-control:-moz-placeholder{
+	color: #ccc;
+}
+.form-control:placeholder {
+	color: #ccc;
+}

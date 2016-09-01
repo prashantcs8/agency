@@ -1,0 +1,50 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+
+body,h1,h2,h3,h4,h5,h6{
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+}
+
+h1{
+	font-size:48px;
+	line-height:65px;
+	font-weight:400;
+}
+h2{
+	font-size:36px;
+	line-height:50px;
+	font-weight:400;
+}
+h3{
+	font-size:30px;
+	line-height:36px;
+	font-weight:400;
+}
+h4{
+	font-size:24px;
+	line-height:30px;
+	font-weight:400;
+}
+h5{
+	font-size:18px;
+	font-weight:400;
+}
+h6{
+	font-size:14px;
+	font-weight:400;
+}
+p{
+	font-size:14px;
+	line-height:24px;
+	font-weight:400;
+}
+p.plarge{
+	font-size:16px;
+	line-height:26px;
+	font-weight:300;
+}
+blockquote{
+	font-size:14px;
+	line-height:21px;
+	font-weight:300;
+}
